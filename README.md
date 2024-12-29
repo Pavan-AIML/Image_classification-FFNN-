@@ -12,6 +12,5 @@
 - Used softmax > Softmax.
 - Used learning rate > 0.001.
 - Used batch size > 8
-- 
 
 
