@@ -18,7 +18,7 @@ def zipdir(path, ziph):
             ziph.write(os.path.join(root, file))
 
 
-def submit_exercise(
+def zipfile(
     zip_output_filename='submission',
     data_path='.',
     relevant_folders=RELEVANT_FOLDERS
