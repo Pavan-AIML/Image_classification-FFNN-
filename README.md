@@ -9,7 +9,7 @@
 - Used loss > Cross entropy.
 - Used optimizer > SGD.
 - Used activation function > Sigmoid.
-- Used softmax > Softmax.
+- Used last_layer > Softmax.
 - Used learning rate > 0.001.
 - Used batch size > 8
 
